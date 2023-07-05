@@ -2,7 +2,7 @@
 AI & Data Analytics School Module Assignment
 
 # Final Preview
-After Data Cleaning and Sorting.
+After Data Cleaning and Sorting. Visulized with PowerBi.
 # Data Exploration 1
 ![image](https://github.com/junshenlye/HDB_Resale_Price_Analysis/assets/69711881/37b05b18-a5f2-4b7f-9051-e981189d0f41)
 
